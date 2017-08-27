@@ -1,0 +1,10 @@
+\contentsline {section}{\numberline {1}Introduction}{3}
+\contentsline {section}{\numberline {2}Similarity}{3}
+\contentsline {subsection}{\numberline {2.1}Conclusion: Similarity}{9}
+\contentsline {section}{\numberline {3}Rhythm}{9}
+\contentsline {subsection}{\numberline {3.1}Conclusion: Rhythm}{19}
+\contentsline {section}{\numberline {4}NPCP}{19}
+\contentsline {subsection}{\numberline {4.1}Conclusion: NPCP}{28}
+\contentsline {section}{\numberline {A}Code}{28}
+\contentsline {subsection}{\numberline {A.1}Workspace Script}{28}
+\contentsline {subsection}{\numberline {A.2}Save Image Function}{29}

@@ -1,0 +1,10 @@
+Jan 24 20:20:16 cu-cs-vm kernel: [  709.233119] Result: 2
+Jan 24 20:20:25 cu-cs-vm kernel: [  718.177544] hello world
+Jan 24 20:20:25 cu-cs-vm kernel: [  718.177904] Adding: -1 + 1
+Jan 24 20:20:25 cu-cs-vm kernel: [  718.177914] Result: 0
+Jan 24 20:20:33 cu-cs-vm kernel: [  726.109521] hello world
+Jan 24 20:20:33 cu-cs-vm kernel: [  726.109740] Adding: 100 + 200
+Jan 24 20:20:33 cu-cs-vm kernel: [  726.109746] Result: 300
+Jan 24 20:20:55 cu-cs-vm kernel: [  748.561101] hello world
+Jan 24 20:20:55 cu-cs-vm kernel: [  748.561300] Adding: 0 + 3753
+Jan 24 20:20:55 cu-cs-vm kernel: [  748.561307] Result: 3753
